@@ -5,6 +5,7 @@ body {
     background-color: rgba(247, 181, 217, 0.747);
     margin: 20px;
     padding: 10px;
+    border: 5px solid palevioletred;
 }
 
 #name {
@@ -37,16 +38,19 @@ body {
 
 #extra {
     font-size: 20px;
-    vertical-align: middle;
     background-color: rgb(177, 92, 177);
     padding: 30px;
     width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid rgb(73, 11, 78);
 }
 
 #Hobbies {
     background-color: wheat;
     padding: 10px;
     width: 20%;
+    text-align: center;
 }
 
 li {
